@@ -1,4 +1,4 @@
-name: CI
+name: PrismaCloud
 on:
   push:
     branches: [ "master" ]
