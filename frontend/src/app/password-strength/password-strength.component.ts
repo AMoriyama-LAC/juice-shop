@@ -4,7 +4,7 @@
  */
 
 import { NgClass } from '@angular/common'
-import { Component, Input, OnChanges, SimpleChanges } from '@angular/core'
+import { Component, Input, type OnChanges, type SimpleChanges } from '@angular/core'
 import { MatProgressBarModule } from '@angular/material/progress-bar'
 
 @Component({
